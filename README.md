@@ -1,4 +1,4 @@
 # hello-world
-This repository is for [Homework #6] software maintenance
+This repository is for [Homework #6] software maintenance.
 
-Hi this is minju Byeon.
++ Hi this is minju Byeon.
